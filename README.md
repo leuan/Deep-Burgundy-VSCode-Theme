@@ -1,16 +1,19 @@
-# deep-burgundy-theme README
+# Deep Burgundy
 
-## Working with Markdown
+## [Repo Link](https://github.com/leuan/Deep-Burgundy-VSCode-Theme) 
+![GitHub Repo stars](https://img.shields.io/github/stars/leuan/Deep-Burgundy-VSCode-Theme?style=social&link=https%3A%2F%2Fgithub.com%2Fleuan%2FDeep-Burgundy-VSCode-Theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+A VSCode theme with dark background and burgundy accents.
 
-## For more information
+## Screenshots:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![ScreenShot](https://i.imgur.com/AxWha45.png)
 
-**Enjoy!**
+![ScreenShot](https://i.imgur.com/8aKHXHY.png)
+
+![ScreenShot](https://i.imgur.com/r0wHoIK.png)
+
+## Created with [VSCode Theme Studio](https://themes.vscode.one)
+
+## Forked from [Underdark](https://themes.vscode.one/theme/yomi/mN8c0njD)
