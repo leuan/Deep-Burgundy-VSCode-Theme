@@ -2,6 +2,7 @@
   "name": "deep-burgundy-theme",
   "displayName": "Deep Burgundy Theme",
   "description": "Deep dark backgrounds with burgundy accents",
+  "publisher": "Leon Vințeanu",
   "version": "1.0.0",
   "repository": {
     "type": "git",
